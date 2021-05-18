@@ -10,4 +10,7 @@ package cn.qingmings.test;
  * @Version: 1.0
  **/
 public class Test01 {
+
+
+    public static final String aaa = null;
 }
